@@ -34,20 +34,24 @@ const updateUI =(data) => {
      `;
 
      //udpate the  night/day & icon image
-//    let timeSrc = null;
-//    if(weather.IsDayTime) {
-     // timeSrc = 'img/day.svg';
-//    }else {
-     // timeSrc = 'img/night.svg';
-//    }
+   const iconSrc = `img/icons/${weather.WeatherIcon}.svg`;
 
-//    time.setAttribute('src', timeSrc);
+   icon.setAttribute('src', iconSrc)
+
+ let timeSrc = null;
+    if(weather.IsDayTime) {
+ timeSrc = 'img/day.svg';
+    }else {
+   timeSrc = 'img/night.svg';
+    }
+
+    time.setAttribute('src', timeSrc);
 
 
      // remove the d-none class if present 
-     // if(card.classList.contains('d-none')) {
-          // card.classList.remove('d-none');
-     // }
+     if(card.classList.contains('d-none')) {
+       card.classList.remove('d-none');
+      }
 
 };
 //async function, so this would  return a  promise
