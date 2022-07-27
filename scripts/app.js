@@ -7,7 +7,9 @@ const details = document.querySelector('.details');
 const time = document.querySelector('img.time');
 const icon = document.querySelector('.icon img') // get the  image  inside  of the  class of  icon
 
+  const forcast = new Forcast();
 
+  console.log(forcast)
 
 
 const updateUI =(data) => {
@@ -35,7 +37,6 @@ const updateUI =(data) => {
 
      //udpate the  night/day & icon image
    const iconSrc = `img/icons/${weather.WeatherIcon}.svg`;
-
    icon.setAttribute('src', iconSrc)
 
  //let timeSrc = null;
@@ -64,7 +65,7 @@ const cityDets = await getCity(city);
 
 const weather = await getWeather(cityDets.Key); //call  get weather from forcast.js
 
-//console.log(city);
+console.log(city);
 //use Object short hand notation for this
 return {cityDets,weather};
 };
@@ -83,7 +84,7 @@ cityForm.addEventListener('submit', e => {
 
      //update the  ui with new city
 
-     updateCity(city)
+    forcast.updateCity(city)
      .then(data => updateUI(data))
      .catch(err => console.log(err.message));
 
