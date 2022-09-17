@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+#container {
+    width: 1200px;
+    height: auto;
+    margin-left: auto;
+    margin-top: 2px;
+    margin-right: auto;
+    border: 1px solid gray;
+}
+.heading {
+    margin-top: -2px;
+    background: #0d1424 url(banner.png) no-repeat center top;
+    font-size: 50pt;
+    text-align: center;
+    padding: 40px;
+}
+section {
+    margin-top: -40px;
+}
+content {
+    float: left;
+    width: 880px;
+    height: auto;
+    display: block;
+    margin-left: 2px;
+    text-align: justify;
+    padding: 5px;
+}
+aside {
+    height: auto;
+    margin-left: 5px;
+    width: 220px;
+    float: right;
+}
+a {
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: bold;
+}
+#leftmenu {
+    margin-top: 15px;
+}
+footer {
+    clear: left;
+    margin-top: 2px;
+    display: block;
+    border-top: 1px solid gray;
+    background: #F0F0F0;
+    padding: 7px 0 7px 0;
+}
+ 
+#copyright {
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 12px;
+    font-style: oblique;
+    margin-left: 100px;
+  }
+

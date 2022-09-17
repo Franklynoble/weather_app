@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <header aria-label="Header content" role="banner" style="margin: -30px 294.16px 5.07px -294.16px; -ms-grid-row-span: 1; height: 200px; padding: 30px;">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis" style="margin-left: 6.76px; margin-right: -6.77px; -ms-grid-column-span: 1;">
+                <span class="pagetitle" style="color: white; font-family: 'Adobe Garamond Pro'; font-size: 80px;">Expense Details</span>
+            </h1>
+
+        </header>
+        <section aria-label="Main content" role="main">
+            <div id="mainContainer" style="color: white; font-family: 'Adobe Garamond Pro'; height: 900px; width: 1600px; margin-left: 350px; margin-top: 200px; display: -ms-grid; -ms-grid-rows: 50px 50px 50px 50px 50px 100px 50px 50px; -ms-grid-columns: 250px 228.39px 121.61px 27fr 473fr; position: absolute; left: 10.13px; top: -65.79px;">
+                <div id="lblDate" style="-ms-grid-column: 1; -ms-grid-row: 3; font-size: 35px;">Expense Date</div>
+                <div id="dtExpense" data-win-control="WinJS.UI.DatePicker" style="-ms-grid-column: 2; -ms-grid-row: 3; font-size: 35px;">
+                </div>
+                <div id="lblExpenseType" style="-ms-grid-column: 1; -ms-grid-row: 4; font-size: 35px;">Expense Type</div>
+                <select id="cboxPaymentMode" style="-ms-grid-column: 2; -ms-grid-row: 4;">
+                    <option selected>Please select</option>
+                    <option>Transportation</option>
+                    <option>Food</option>
+                    <option>Clothing</option>
+                    <option>Household</option>
+                    <option>Medical</option>
+                    <option>Miscellaneous Bills</option>
+                </select>
+                <div id="lbAmount" style="-ms-grid-column: 1; -ms-grid-row: 5; font-size: 35px;">Amount</div>
+                <input id="tbAmount" type="text" style="-ms-grid-column: 2; -ms-grid-row: 5;" />
+                <div id="lblDescription" style="-ms-grid-column: 1; -ms-grid-row: 6; font-size: 35px;">Description</div>
+                <textarea id="taDescription" rows="5" style="width: 400px; -ms-grid-column: 2; -ms-grid-row: 6;"></textarea>
+                <button id="bttnAdd" style="-ms-grid-column: 2; -ms-grid-row: 8; width: 242.52px; height: 75px; font-size: 30px; font-family: 'Adobe Garamond Pro'; color: white; background-color: orange; border-color: white; -ms-grid-column-span: 2; margin: 0px 107.48px -25px 0px;">Add Expense</button>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

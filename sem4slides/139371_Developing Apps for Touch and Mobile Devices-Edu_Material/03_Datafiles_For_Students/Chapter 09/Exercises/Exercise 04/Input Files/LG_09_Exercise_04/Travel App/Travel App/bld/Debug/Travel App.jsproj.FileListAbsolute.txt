@@ -1,0 +1,45 @@
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bin\Debug\ReverseMap\resources.pri
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bin\Debug\AppxManifest.xml
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bin\Debug\Travel App.build.appxrecipe
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\priconfig.xml
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\priconfig.xml.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\layout.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\layout.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\resources.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\resources.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\pri.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\pri.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\qualifiers.txt
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pulkit\Documents\VSProjects\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\ProjectArchitectures.txt
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bin\Debug\ReverseMap\resources.pri
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bin\Debug\AppxManifest.xml
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bin\Debug\Travel App.build.appxrecipe
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\priconfig.xml
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\priconfig.xml.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\layout.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\layout.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\resources.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\resources.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\pri.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\pri.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\qualifiers.txt
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pulkit\Documents\VSProjects\LG 09\LG_09_Exercise_03\Travel App\Travel App\bld\Debug\ProjectArchitectures.txt
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bin\Debug\ReverseMap\resources.pri
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bin\Debug\AppxManifest.xml
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bin\Debug\Travel App.build.appxrecipe
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\priconfig.xml
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\priconfig.xml.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\layout.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\layout.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\resources.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\resources.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\pri.resfiles
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\pri.resfiles.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\qualifiers.txt
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\ProjectArchitectures.txt

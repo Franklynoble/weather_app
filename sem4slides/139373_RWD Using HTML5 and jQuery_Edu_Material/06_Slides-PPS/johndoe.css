@@ -1,0 +1,42 @@
+@media screen and (max-width: 1024px) {
+     #container {
+        width: 963px;
+        margin-bottom: 1px;
+        line-height: 1;
+        height: auto;
+    }
+    .heading {
+        font-size: 35pt;
+        height: 60px;
+    }
+    content {
+        width: 740px;
+        font-size: 14px;
+    }
+    aside {
+        width: 180px;
+    }
+    a {
+        font-style: oblique;
+        font-size: 13px;
+    }
+   #maincontent {
+        width: 735px;
+    }
+   #leftcontent {
+        float: left;
+        width: 340px;
+        margin: 20px 0;
+        padding: 10px;
+        clear: left;
+        text-align: justify;
+    }
+   #rightcontent {
+        float: right;
+        padding: 10px;
+        margin: 20px 0;
+        width: 340px;
+        text-align: justify;
+    }
+}
+

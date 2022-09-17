@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CNF-GF-330816</Machine>
+    <WindowsUser>Pulkit.Narang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a190efec-99e7-4aea-b31e-fcd728fa780c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>574F5BD7753B4AEF14FEA074BD7D1C6DAFFB10308317290792B8DCFB398FE244</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a190efec-99e7-4aea-b31e-fcd728fa780c_1.0.0.0_neutral__41aghz0pyhy50</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a190efec-99e7-4aea-b31e-fcd728fa780c_41aghz0pyhy50!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a190efec-99e7-4aea-b31e-fcd728fa780c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Pulkit.Narang</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-11T05:01:51.271</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-11-11T02:48:17.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\pages\convert\convert.css">
+      <PackagePath>pages\convert\convert.css</PackagePath>
+      <Modified>2014-11-11T02:56:27.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-11-10T14:08:58.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\images\back.jpg">
+      <PackagePath>images\back.jpg</PackagePath>
+      <Modified>2014-11-10T11:09:55.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\img\icon1.png">
+      <PackagePath>img\icon1.png</PackagePath>
+      <Modified>2014-11-11T05:00:34.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\img\icon2.png">
+      <PackagePath>img\icon2.png</PackagePath>
+      <Modified>2014-11-11T05:00:34.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\img\icon3.png">
+      <PackagePath>img\icon3.png</PackagePath>
+      <Modified>2014-11-11T05:00:34.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\img\icon4.png">
+      <PackagePath>img\icon4.png</PackagePath>
+      <Modified>2014-11-11T05:00:34.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\img\icon5.png">
+      <PackagePath>img\icon5.png</PackagePath>
+      <Modified>2014-11-11T05:00:34.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\img\icon6.png">
+      <PackagePath>img\icon6.png</PackagePath>
+      <Modified>2014-11-11T05:00:34.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-11-10T14:08:58.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-11-10T14:08:58.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\pages\convert\convert.js">
+      <PackagePath>pages\convert\convert.js</PackagePath>
+      <Modified>2014-11-11T04:47:26.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-11-11T05:01:49.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\pages\convert\convert.html">
+      <PackagePath>pages\convert\convert.html</PackagePath>
+      <Modified>2014-11-11T04:17:12.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-11-11T04:31:30.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-11-11T04:30:15.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-11T05:01:51.105</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

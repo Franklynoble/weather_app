@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PULKIT-INSPIRON</Machine>
+    <WindowsUser>Pulkit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f488e410-de13-486f-9ec9-c816b7f591db</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A94855AE3E1905499AEDD347201EB26E0F0DFF1266555375DDC4EFDFA5822567</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f488e410-de13-486f-9ec9-c816b7f591db_1.0.0.0_neutral__f241fdha2syze</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f488e410-de13-486f-9ec9-c816b7f591db_f241fdha2syze!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f488e410-de13-486f-9ec9-c816b7f591db</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Pulkit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-09T12:51:01.387</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-11-09T12:27:59.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-10-30T13:33:05.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page1\page1.css">
+      <PackagePath>pages\page1\page1.css</PackagePath>
+      <Modified>2014-10-30T13:36:37.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page2\page2.css">
+      <PackagePath>pages\page2\page2.css</PackagePath>
+      <Modified>2014-10-30T13:36:48.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page3\page3.css">
+      <PackagePath>pages\page3\page3.css</PackagePath>
+      <Modified>2014-10-30T13:36:57.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page4\page4.css">
+      <PackagePath>pages\page4\page4.css</PackagePath>
+      <Modified>2014-10-30T13:37:07.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page5\page5.css">
+      <PackagePath>pages\page5\page5.css</PackagePath>
+      <Modified>2014-10-30T13:37:15.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\img\back.png">
+      <PackagePath>img\back.png</PackagePath>
+      <Modified>2014-11-09T12:18:30.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\img\icon_california.jpg">
+      <PackagePath>img\icon_california.jpg</PackagePath>
+      <Modified>2014-11-08T13:05:20.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\img\icon_mauritius.jpg">
+      <PackagePath>img\icon_mauritius.jpg</PackagePath>
+      <Modified>2014-11-08T13:08:48.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\img\icon_newjersey.jpg">
+      <PackagePath>img\icon_newjersey.jpg</PackagePath>
+      <Modified>2014-11-08T13:10:44.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\img\icon_newyork.jpg">
+      <PackagePath>img\icon_newyork.jpg</PackagePath>
+      <Modified>2014-11-08T13:13:50.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\img\icon_shanghai.jpg">
+      <PackagePath>img\icon_shanghai.jpg</PackagePath>
+      <Modified>2014-11-08T13:14:53.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\img\img_california.jpg">
+      <PackagePath>pages\img\img_california.jpg</PackagePath>
+      <Modified>2014-11-08T13:06:08.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\img\img_mauritius.jpg">
+      <PackagePath>pages\img\img_mauritius.jpg</PackagePath>
+      <Modified>2014-11-08T13:07:31.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\img\img_newjersey.jpg">
+      <PackagePath>pages\img\img_newjersey.jpg</PackagePath>
+      <Modified>2014-11-08T13:11:40.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\img\img_newyork.jpg">
+      <PackagePath>pages\img\img_newyork.jpg</PackagePath>
+      <Modified>2014-11-08T13:12:50.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\img\img_shanghai.jpg">
+      <PackagePath>pages\img\img_shanghai.jpg</PackagePath>
+      <Modified>2014-11-08T13:16:01.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-11-09T12:44:26.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-10-30T13:33:05.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-11-09T12:27:22.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page1\page1.js">
+      <PackagePath>pages\page1\page1.js</PackagePath>
+      <Modified>2014-10-30T13:36:36.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page2\page2.js">
+      <PackagePath>pages\page2\page2.js</PackagePath>
+      <Modified>2014-10-30T13:36:47.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page3\page3.js">
+      <PackagePath>pages\page3\page3.js</PackagePath>
+      <Modified>2014-10-30T13:36:57.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page4\page4.js">
+      <PackagePath>pages\page4\page4.js</PackagePath>
+      <Modified>2014-10-30T13:37:07.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page5\page5.js">
+      <PackagePath>pages\page5\page5.js</PackagePath>
+      <Modified>2014-10-30T13:37:15.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-11-09T12:57:34.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-11-09T17:39:19.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page1\page1.html">
+      <PackagePath>pages\page1\page1.html</PackagePath>
+      <Modified>2014-11-10T03:14:16.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page2\page2.html">
+      <PackagePath>pages\page2\page2.html</PackagePath>
+      <Modified>2014-11-10T03:14:33.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page3\page3.html">
+      <PackagePath>pages\page3\page3.html</PackagePath>
+      <Modified>2014-11-10T03:14:47.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page4\page4.html">
+      <PackagePath>pages\page4\page4.html</PackagePath>
+      <Modified>2014-11-10T03:15:12.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\pages\page5\page5.html">
+      <PackagePath>pages\page5\page5.html</PackagePath>
+      <Modified>2014-11-10T03:15:12.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pulkit\Documents\VSProjects\LG 09\Travel App\Travel App\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-09T12:51:01.184</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

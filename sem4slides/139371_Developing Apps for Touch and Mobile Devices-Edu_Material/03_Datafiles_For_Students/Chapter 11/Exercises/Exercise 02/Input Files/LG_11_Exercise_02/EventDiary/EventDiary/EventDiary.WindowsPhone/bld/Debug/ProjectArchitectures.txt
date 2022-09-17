@@ -1,0 +1,1 @@
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.WindowsPhone\EventDiary.WindowsPhone.jsproj;neutral

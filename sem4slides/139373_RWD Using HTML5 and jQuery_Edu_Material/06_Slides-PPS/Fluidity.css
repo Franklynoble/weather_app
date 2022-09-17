@@ -1,0 +1,103 @@
+body {
+   margin: 0;
+   }
+   #container {
+   	width: 95%;
+   	height: auto;
+	margin-left: auto;
+	margin-top: 1px;
+ 	margin-right: auto;
+   border: 1px solid gray;
+   }
+   header
+   {
+   width: 100%;
+ 	height: auto;
+   display: block; 
+   }
+   .heading{
+   margin-top:-2px;
+   background: #0d1424 url(banner.png) no-repeat center top;
+	font-size: 30pt;
+   text-align: center; 
+   padding:50px;
+   }
+   section
+   {
+   margin:2px;
+ width: 100%;
+ display: block; 
+ }
+ content
+ {
+ width: 70%;
+ height: auto;
+ display: block; 
+ float:left;   
+ margin-left:2px; 
+ padding: 5px;
+ }
+ aside
+ {
+ width: 20%;
+ height: auto;
+ display: block; 
+ float:right;  
+ margin-right:2px;  
+ padding: 5px; 
+ }
+ a{
+ text-decoration: none;
+ }
+ footer
+ {
+ clear: left;
+ margin-top: 5px;
+ width: 100%;
+ height: auto;
+ display: block; 
+ padding-top: 3px;
+ background:gray; 
+ padding-bottom: 3px;
+ }
+ #maincontent 
+ {
+ display: block;
+ width:95%; 
+ }
+ #leftcontent
+ {
+ width: 45%;
+ height: auto;
+ display: block; 
+ float:left;   
+ margin-right:1px; 
+ padding: 2px;
+ }
+ #rightcontent
+ {
+ width: 45%;
+ height: auto;
+ display: block; 
+ float:right;  
+    margin-left:1px;  
+    padding: 2px; 
+    }
+ #leftmenu {
+    margin-top: 15px;
+}
+ 	footer {
+    clear: left;
+    margin-top: 2px;
+    display: block;
+    border-top: 1px solid gray;
+    background: #F0F0F0;
+    padding: 7px 0 7px 0;
+}
+	#copyright {
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 12px;
+    font-style: oblique;
+    margin-left: 100px;
+}
+

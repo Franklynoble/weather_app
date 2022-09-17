@@ -1,0 +1,47 @@
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\ReverseMap\resources.pri
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\AppxManifest.xml
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\EventDiary.Windows.build.appxrecipe
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\priconfig.xml
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\priconfig.xml.intermediate
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\layout.resfiles
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\layout.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\resources.resfiles
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\resources.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\pri.resfiles
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\pri.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\qualifiers.txt
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\qualifiers.txt.intermediate
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\NIIT\Parul\Mobile App Development\Demo Apps\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\ProjectArchitectures.txt
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\ReverseMap\resources.pri
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\AppxManifest.xml
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\EventDiary.Windows.build.appxrecipe
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\priconfig.xml
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\priconfig.xml.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\layout.resfiles
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\layout.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\resources.resfiles
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\resources.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\pri.resfiles
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\pri.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\qualifiers.txt
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\qualifiers.txt.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\MobileServices.pri.xml
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\ProjectArchitectures.txt
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\ReverseMap\resources.pri
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\AppxManifest.xml
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bin\Debug\EventDiary.Windows.build.appxrecipe
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\priconfig.xml
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\priconfig.xml.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\layout.resfiles
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\layout.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\resources.resfiles
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\resources.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\pri.resfiles
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\pri.resfiles.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\qualifiers.txt
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\qualifiers.txt.intermediate
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\MobileServices.pri.xml
+E:\NIIT\Parul\Mobile App Development\Complete Chapter\Fixed LAB Components\Solution\LG_10_Exercise_01\EventDiary\EventDiary\EventDiary.Windows\bld\Debug\ProjectArchitectures.txt

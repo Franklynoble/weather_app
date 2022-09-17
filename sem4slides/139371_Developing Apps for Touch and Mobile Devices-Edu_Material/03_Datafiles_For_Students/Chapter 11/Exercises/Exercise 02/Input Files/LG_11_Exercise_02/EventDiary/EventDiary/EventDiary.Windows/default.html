@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>EventDiary.Windows</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- MyEventDiary references -->
+    <script src="/js/MobileServices.js"></script>
+    <script src="/services/mobileServices/settings/MyEventDiary.js"></script>
+
+    <!-- EventDiary.Windows references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div class="AddEventPage fragment">
+        <header aria-label="Header content" role="banner">
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle" id="p1" style="color: white; font-family: 'Bell MT'; font-size: 50px; height:20px;">My Event Diary</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div style="color: white; font-size: 16pt; background-color: #E34FC6; background-image: linear-gradient(rgb(221, 17, 241), #DE88E6); height: 600px; left: 0px; top: 100px; position: absolute; right: 0px;">
+                <table border="0">
+                    <tr>
+                        <td>
+                            <table>
+                                <tr>
+                                    <td style="vertical-align:top; text-align: right;">Event Title</td>
+                                    <td style="vertical-align:top; width: 10px; text-align: center;">:</td>
+                                    <td style="text-align: left;">
+                                        <input type="text" id="tbTitle" style="width:320px" />
+                                    </td>
+                                </tr>                               
+                                <tr>
+                                    <td style="text-align: right;">Date</td>
+                                    <td style="width: 10px; text-align: center;">:</td>
+                                    <td style="text-align: left;">
+                                        <div id="dtpickerDate" data-win-control="WinJS.UI.DatePicker"></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="vertical-align:top; text-align: right;">Location</td>
+                                    <td style="vertical-align:top; width: 10px; text-align: center;">:</td>
+                                    <td style="text-align: left;">
+                                        <input type="text" id="tbLocation" style="width:320px" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="vertical-align:top; text-align: right;">Description</td>
+                                    <td style="vertical-align:top; width: 10px; text-align: center;">:</td>
+                                    <td style="text-align: left;">
+                                        <textarea id="taDescription" cols="37" rows="3"></textarea><span style="font-size: 15px; color: white; padding-left: 10px;"></span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: right;"></td>
+                                    <td style="width: 10px; text-align: center;"></td>
+                                    <td style="text-align: right;">                                        
+                                        <button id="bttnAdd" style="background: #00A0D1; background: -ms-linear-gradient(top,#00A0D1 0%,#008DB8 100%); padding: 8px 20px; color: white; font-family: 'Helvetica Neue',sans-serif; font-size: 13px; border-radius: 40px; border: 1px solid #095B7E;" value="Add Event">Add Event</button>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table style="margin-left:100px" width="800px">
+                                <tr>
+                                    <td align="left">
+                                        <strong>My Events</strong>
+                                    </td>
+                                </tr>
+                                 <tr>
+                                    <td>
+                                        <div id="TemplateItem" data-win-control="WinJS.Binding.Template">
+                                            <div style="display: -ms-grid; -ms-grid-columns: auto auto 1fr 1fr">
+                                                <div style="-ms-grid-column: 3; -ms-grid-row-align: center; margin-left: 5px" data-win-bind="innerText: title">
+                                                </div>
+                                                <div style="-ms-grid-column: 4; -ms-grid-row-align: center; margin-left: 5px" data-win-bind="innerText: date">
+                                                </div>
+                                                <div style="-ms-grid-column: 5; -ms-grid-row-align: center; margin-left: 5px" data-win-bind="innerText: location">
+                                                </div>
+                                                <div style="-ms-grid-column: 6; -ms-grid-row-align: center; margin-left: 5px" data-win-bind="innerText: description">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="listItems" style="-ms-grid-row: 2;"
+                                             data-win-control="WinJS.UI.ListView"
+                                             data-win-options="{ itemTemplate: TemplateItem, layout: {type: WinJS.UI.ListLayout} }">
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                </table>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

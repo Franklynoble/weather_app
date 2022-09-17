@@ -1,0 +1,30 @@
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\ReverseMap\resources.pri
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\AppxManifest.xml
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.build.appxrecipe
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\priconfig.xml
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\priconfig.xml.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\layout.resfiles
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\layout.resfiles.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\resources.resfiles
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\resources.resfiles.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\pri.resfiles
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\pri.resfiles.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\qualifiers.txt
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bld\Debug\ProjectArchitectures.txt
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bin\Debug\ReverseMap\resources.pri
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bin\Debug\AppxManifest.xml
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bin\Debug\Currency Converter.build.appxrecipe
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\priconfig.xml
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\priconfig.xml.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\layout.resfiles
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\layout.resfiles.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\resources.resfiles
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\resources.resfiles.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\pri.resfiles
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\pri.resfiles.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\qualifiers.txt
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pulkit.Narang\Documents\Visual Studio 2013\Projects\CURRENCY\Input\Currency Converter\Currency Converter\bld\Debug\ProjectArchitectures.txt
